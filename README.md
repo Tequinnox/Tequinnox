@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm currently working on some small indie founder projects.
+
 I am currently learning GitHub and basic coding languages.
 
 <!--
