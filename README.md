@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 I'm currently working on some small indie founder projects.
 
